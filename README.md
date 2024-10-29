@@ -1,5 +1,5 @@
 ## :pushpin: 학부 농식품 가격론 수업 발표자료 
-- PRediction and Analysis of Daepa Price 
+- Prediction and Analysis of Daepa Price 
 
 ## :pushpin: 기간
 - 2023.04~ 2023.06
